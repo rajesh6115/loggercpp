@@ -1,2 +1,2 @@
 bin_PROGRAMS = loggercpp
-loggercpp_SOURCES = hello.c
+loggercpp_SOURCES = Main.cpp
